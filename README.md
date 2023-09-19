@@ -1,10 +1,9 @@
-# React + Vite
+
 #AI SUMMERIZER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
--This web app is build using react js ,tailwind .
 
-Currently, two official plugins are available:
+-This web app is build using react js ,tailwind css and redux tolkit .
+
 -HOW IT WORKS:
 You will provide the url of the website and it wll summerize the article using article summarizer api from rapidapi and it also store the history 
  in localstorage(https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
